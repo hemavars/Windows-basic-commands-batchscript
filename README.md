@@ -36,42 +36,42 @@ Remove the directory "my-folder"
 
 Create the file Rose.txt
 
-![Batch 5 Output](screenshot/Screenshot2026-03-19015121.png)
+![Batch 5 Output](screenshot/2.png)
 
 ## COMMAND AND OUTPUT
 
 Create the file hello.txt using echo and redirection
 
-![Batch 5 Output](screenshot/Screenshot2026-03019015300.png)
+![Batch 5 Output](screenshot/3.png)
 
 ## COMMAND AND OUTPUT
 
 Copy the file hello.txt into the file hello1.txt
 
-![Batch 5 Output](screenshot/screenshot2026-03-19015300.png)
+![Batch 5 Output](screenshot/4.png)
 
 ## COMMAND AND OUTPUT
 
 Remove the file hello1.txt
 
-![Batch 5 Output](screenshot/screenshot2026-03-19015502.png)
+![Batch 5 Output](screenshot/5.png)
 
 ## COMMAND AND OUTPUT
 
 List out the file hello1.txt in the current directory
 
-![Batch 5 Output](screenshot/screenshot2026-03-19015546.png)
+![Batch 5 Output](screenshot/6.png)
 
 ## COMMAND AND OUTPUT
 
 List out all the associated file extensions 
 
-![Batch 5 Output](screenshot/screenshot2026-03-19015624.png)
+![Batch 5 Output](screenshot/7.png)
 
 ## COMMAND AND OUTPUT
 
 Compare the file hello.txt and rose.txt
-![Batch 5 Output](screenshot/screenshot2026-03-19015719.png)
+![Batch 5 Output](screenshot/8.png)
 
 ## COMMAND AND OUTPUT
 
@@ -79,7 +79,7 @@ Compare the file hello.txt and rose.txt
 
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
-![Batch 5 Output](screenshot/screenshot2026-03-19020629.png)
+![Batch 5 Output](screenshot/9.png)
 
 ## OUTPUT
 
@@ -91,14 +91,14 @@ Ask the user if they want to check another number.
 Repeat the process if the user enters Y, and exit with a thank-you message if the user enters N.
 Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
-![Batch 5 Output](screenshot/screenshot2026-03-19021027.png)
+![Batch 5 Output](screenshot/10.png)
 
 
 ## OUTPUT
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
-![Batch 5 Output](screenshot/screenshot2026-03-19021157.png)
+![Batch 5 Output](screenshot/11.png)
 
 ## OUTPUT
 
@@ -110,7 +110,7 @@ Make sure the script works for files located in the same directory as the batch 
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
-![Batch 5 Output](screenshot/screenshot2026-03-19021238.png)
+![Batch 5 Output](screenshot/12.png)
 
 ## OUTPUT
 
@@ -120,11 +120,11 @@ Create a File – Creates a file named newfile.txt with the content This is a ne
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
-![Batch 5 Output](screenshot/screenshot2026-03-19021419.png)
+![Batch 5 Output](screenshot/13.png)
 
 ## OUTPUT
 
-![Batch 5 Output](screenshot/screenshot2026-03-19021515.png)
+![Batch 5 Output](screenshot/14.png)
 
 # RESULT:
 
