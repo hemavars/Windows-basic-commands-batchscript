@@ -30,7 +30,7 @@ Create a directory named "my-folder"
 
 Remove the directory "my-folder"
 
-![Batch 5 Output](screenshot/Screenshot2026-03-19015039.png)
+![Batch 5 Output](screenshot/1.png)
 
 ## COMMAND AND OUTPUT
 
